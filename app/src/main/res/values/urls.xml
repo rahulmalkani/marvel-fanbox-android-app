@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wallpapers">
+        <item>https://images2.alphacoders.com/589/589553.png</item>
+        <item>https://images8.alphacoders.com/570/570875.png</item>
+        <item>https://images4.alphacoders.com/999/999187.jpg</item>
+        <item>https://images2.alphacoders.com/588/588374.jpg</item>
+        <item>https://images4.alphacoders.com/598/598107.png</item>
+        <item>https://images5.alphacoders.com/576/576918.jpg</item>
+        <item>https://images6.alphacoders.com/310/310221.jpg</item>
+        <item>https://images3.alphacoders.com/273/273679.jpg</item>
+        <item>https://images3.alphacoders.com/673/673852.jpg</item>
+        <item>https://images8.alphacoders.com/953/953264.jpg</item>
+        <item>https://images3.alphacoders.com/990/990650.jpg</item>
+        <item>https://images8.alphacoders.com/879/879216.jpg</item>
+        <item>https://images8.alphacoders.com/913/913245.jpg</item>
+        <item>https://images7.alphacoders.com/990/990610.jpg</item>
+        <item>https://images6.alphacoders.com/412/412521.jpg</item>
+        <item>https://images3.alphacoders.com/678/678795.jpg</item>
+        <item>https://images7.alphacoders.com/398/398390.jpg</item>
+        <item>https://images2.alphacoders.com/789/789095.jpg</item>
+        <item>https://images6.alphacoders.com/903/903222.jpg</item>
+        <item>https://images8.alphacoders.com/673/673853.jpg</item>
+        <item>https://images6.alphacoders.com/538/538124.jpg</item>
+        <item>https://images.alphacoders.com/673/673847.jpg</item>
+        <item>https://images4.alphacoders.com/673/673851.jpg</item>
+        <item>https://images2.alphacoders.com/673/673854.jpg</item>
+        <item>https://images3.alphacoders.com/100/1002344.jpg</item>
+        <item>https://images6.alphacoders.com/313/313745.jpg</item>
+        <item>https://images7.alphacoders.com/947/947042.png</item>
+        <item>https://images7.alphacoders.com/514/514639.jpg</item>
+        <item>https://images5.alphacoders.com/389/389704.jpg</item>
+        <item>https://images5.alphacoders.com/480/480514.jpg</item>
+    </string-array>
+</resources>

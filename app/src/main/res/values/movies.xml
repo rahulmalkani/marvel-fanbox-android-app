@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="phase1">
+        <item>tt0371746</item>
+        <item>tt0800080</item>
+        <item>tt1228705</item>
+        <item>tt0800369</item>
+        <item>tt0103923</item>
+        <item>tt0848228</item>
+    </string-array>
+    <string-array name="phase2">
+        <item>tt1300854</item>
+        <item>tt1981115</item>
+        <item>tt1843866</item>
+        <item>tt2015381</item>
+        <item>tt2395427</item>
+        <item>tt0478970</item>
+    </string-array>
+    <string-array name="phase3">
+        <item>tt3498820</item>
+        <item>tt1211837</item>
+        <item>tt3896198</item>
+        <item>tt2250912</item>
+        <item>tt3501632</item>
+        <item>tt1825683</item>
+        <item>tt4154756</item>
+        <item>tt5095030</item>
+        <item>tt4154664</item>
+        <item>tt4154796</item>
+        <item>tt6320628</item>
+    </string-array>
+    <string-array name="phase4">
+        <item>tt3480822</item>
+        <item>tt9208876</item>
+        <item>tt9032400</item>
+        <item>tt9376612</item>
+        <item>tt9140560</item>
+        <item>tt9140554</item>
+        <item>tt9419884</item>
+        <item>tt10168312</item>
+        <item>tt10160804</item>
+        <item>tt10648342</item>
+        <item>tt10671440</item>
+    </string-array>
+
+</resources>

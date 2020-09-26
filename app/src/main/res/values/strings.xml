@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Marvel FanBox</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mollis magna quam. In hac habitasse platea dictumst. In et tortor id tellus pulvinar pretium. Integer et dolor erat. Donec fringilla, nibh vel condimentum posuere, est diam viverra metus, at porttitor risus turpis commodo ante. Maecenas dictum, libero eu pretium ornare, ante turpis vestibulum augue, pharetra tincidunt eros est at libero. Praesent mattis, ante in sagittis dapibus, sem est dignissim tortor, vitae consectetur purus leo eu quam. Duis suscipit eget tellus at vehicula. Praesent justo nunc, pulvinar sed tortor sit amet, interdum rutrum velit. Praesent varius eleifend libero at ornare. Praesent rutrum, metus non egestas accumsan, magna sem scelerisque ligula, id egestas nulla nulla non libero. Etiam tincidunt rhoncus interdum. Integer nec lorem tristique, hendrerit elit in, laoreet nibh. Aliquam eu maximus erat. Nunc nulla mi, interdum eu felis eu, iaculis tempus nisi. Donec blandit neque eget dapibus facilisis. Aenean blandit, purus congue suscipit sollicitudin, neque lorem sodales erat, nec pulvinar felis odio eu magna. Vestibulum ac laoreet nibh, quis rhoncus nulla. Suspendisse quis est nibh. Phasellus non elementum dolor, vitae fringilla ante. Praesent dignissim tempus ipsum. In blandit auctor risus, nec ultrices orci porttitor ac. Curabitur vitae lectus congue neque commodo scelerisque non at dolor. Nullam vitae vulputate nibh. Nam id arcu eget tellus cursus eleifend id et arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla accumsan diam vitae nibh pretium, in ultrices risus tristique. Vestibulum nec auctor lorem.</string>
+    <string name="movie_poster">Movie Poster</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="OMDB_API_KEY">fa653129</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

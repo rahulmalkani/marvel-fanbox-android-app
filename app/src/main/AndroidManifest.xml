@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.marvelfanbox.main">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:icon="@drawable/marvel"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/marvel_round"
+        android:supportsRtl="true"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name="com.marvelfanbox.main.WebViewActivity" />
+        <activity
+            android:name="com.marvelfanbox.main.InfoActivity"
+            android:theme="@style/NoActionbar" />
+        <activity
+            android:name="com.marvelfanbox.main.MainActivity"
+            android:theme="@style/NoActionbar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
